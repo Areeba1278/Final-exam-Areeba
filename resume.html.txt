@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Areeba Naeem - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            text-align: center;
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+            margin: 0;
+        }
+        h2 {
+            font-size: 24px;
+        }
+        p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Areeba Naeem</h1>
+        <p>Web Developer</p>
+    </div>
+    
+    <div class="container">
+        <h2>Contact Information</h2>
+        <p>Email: nareeba007@gmail.com</p>
+        <p>Phone: (123) 456-7890</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/your-profile">linkedin.com/in/your-profile</a></p>
+        
+        <h2>Summary</h2>
+        <p>Enthusiastic computer engineer with a strong desire to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow, and excel in the computer and IT industry. Seeking a position where I can exercise my skills as a well-educated, hardworking employee to achieve organizational goals successfully.</p>
+        
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>Responsive Web Design</li>
+            <li>Front-End Frameworks (e.g., Bootstrap)</li>
+        </ul>
+        
+        <h2>Experience</h2>
+        <h3>Web Developer Intern - ABC Company</h3>
+        <p>May 2022 - August 2022</p>
+        <ul>
+            <li>Assisted in the development of the company's website.</li>
+            <li>Collaborated with the design team to implement responsive layouts.</li>
+            <li>Debugged and resolved issues in the website's code.</li>
+        </ul>
+        
+        <h2>Education</h2>
+        <h3>Bachelor of Science in Computer Science - XYZ University</h3>
+        <p>Graduated: May 2022</p>
+        
+        <h2>Projects</h2>
+        <h3>Personal Portfolio Website</h3>
+        <p>Designed and developed a personal portfolio website to showcase my projects and skills.</p>
+        <h3>Task Management App</h3>
+        <p>Created a web-based task management application using HTML, CSS, and JavaScript.</p>
+    </div>
+</body>
+</html>
